@@ -1,12 +1,10 @@
 package com.lyricaloriginal.f2matrixanalyzer;
 
+import static org.hamcrest.CoreMatchers.is;
+import static org.hamcrest.CoreMatchers.nullValue;
+import static org.junit.Assert.assertThat;
+
 import org.junit.Test;
-
-import com.lyricaloriginal.f2matrixanalyzer.Analyzer;
-import com.lyricaloriginal.f2matrixanalyzer.Report;
-
-import static org.hamcrest.CoreMatchers.*;
-import static org.junit.Assert.*;
 
 /**
  * analyzerクラスのテストクラスです。<BR>
