@@ -6,7 +6,7 @@ F2係数のn次正方行列について「逆行列・一般化逆行列・Kerne
 1. 本プロジェクトをダウンロード(git clone)する。
 
 2. ダウンロードしたプロジェクトをEclipse上にインポートする。
-(EclipseはJava7を参照できる状態であること。)
+(EclipseはJava7を参照できる状態であること。また、Mavenが使える状態であること)
 
 3. srcフォルダのcom.lyricaloriginal.f2matrixanalyzer.Main.java
 を選択し、実行すればOK。
